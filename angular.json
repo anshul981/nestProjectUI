@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "nestProjectUI"
+  "defaultProject": "nestProjectUI",
+  "cli": {
+    "analytics": false
+  }
 }
